@@ -1,0 +1,4 @@
+#Sat Dec 04 18:57:11 CST 2021
+base.0=C\:\\Users\\donal\\Documents\\GitHub\\gitAndroidApp\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
