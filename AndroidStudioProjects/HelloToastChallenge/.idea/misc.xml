@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/ProyectiosAndroidd/UIHello/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/donal/Documents/GitHub/gitAndroidApp/AndroidStudioProjects/UIHello/app/src/main/res/layout/activity_main.xml" value="0.20108695652173914" />
+        <entry key="..\:/HelloToastChallenge/app/src/main/res/layout-land/activity_main.xml" value="0.1728395061728395" />
+        <entry key="..\:/HelloToastChallenge/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Hello_Toast/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
   </component>
@@ -13,5 +14,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1728395061728395" />
+      </ProjectState>
+    </option>
   </component>
 </project>

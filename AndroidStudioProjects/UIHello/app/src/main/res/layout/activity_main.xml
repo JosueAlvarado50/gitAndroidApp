@@ -15,7 +15,7 @@
         android:layout_marginBottom="8dp"
         android:background="#FF9800"
         android:backgroundTint="#F44336"
-        android:onClick="showToast"
+        android:onClick="countUp"
         android:text="@string/button_label_count"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -38,7 +38,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:onClick="countUp"/>
+        android:onClick="showToast"/>
 
     <TextView
         android:id="@+id/textView2"
@@ -48,7 +48,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:background="#DCFF5722"
+        android:background="@color/purple_500"
         android:gravity="center"
         android:text="@string/count_initial_value"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
